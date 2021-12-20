@@ -3,4 +3,7 @@
     <string name="no_data_available">Unable to refresh data. Please check your internet connection and try again.</string>
     <string name="ok">OK</string>
     <string name="data_error_message">There is no data available for selected Book. Please check your internet connection and try again.</string>
+    <string name="onDeniedPermissionsDialogMessage">Es necesario que otorgue algunos permisos para obtener su geolocalización y poder proteger sus cuentas adecuadamente</string>
+    <string name="onDeniedPermissionsDialogAccept">Aceptar</string>
+    <string name="onDeniedPermissionsDialogCancel">Cancelar</string>
 </resources>
